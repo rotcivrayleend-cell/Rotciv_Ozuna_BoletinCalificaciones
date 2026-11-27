@@ -38,4 +38,4 @@ Aplicación de escritorio en Windows Forms (C#) que calcula el promedio de cada 
 **Ejemplo:** Matemática 85.50 (Aprobada), Inglés 64.00 (En recuperación) e Informática 55.25 (Reprobada) dan un promedio general de **68.25** y la situación *Tiene asignaturas reprobadas*.
 
 ## 6. Captura de pantalla
-![Programa en ejecución](NOMBRE_DE_TU_CAPTURA.png)
+![Programa en ejecución](CAP_1_CALI.png)
