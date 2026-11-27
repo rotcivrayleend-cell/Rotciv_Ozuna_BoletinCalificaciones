@@ -2,12 +2,12 @@
 ## Actividad individual – Programación Básica (Windows Forms, C#)
 
 ## 1. Datos del estudiante
-- **Nombre:** TU NOMBRE COMPLETO
-- **Matrícula:** TU MATRÍCULA
+- **Nombre:** Rotciv Ozuna
+- **Matrícula:** 2025-2501
 - **Fecha:** 26/11/2026
 
 ## 2. Descripción del programa
-Aplicación de escritorio en Windows Forms (C#) que calcula el promedio de cada asignatura de un estudiante, determina su situación académica y muestra un resumen con el promedio general. Todo el código está en `Form1.cs`.
+Aplicación de escritorio en Windows Forms (C#) que calcula el promedio de cada asignatura de un estudiante, determina su situación académica y muestra un resumen con el promedio general. Todo el código está en Form1.cs.
 
 ## 3. Datos de entrada
 - Nombre del estudiante.
@@ -32,7 +32,7 @@ Aplicación de escritorio en Windows Forms (C#) que calcula el promedio de cada 
 **Validaciones:** nombre no vacío, tanda y asignatura seleccionadas, calificaciones numéricas de 0 a 100, y no se muestra el resumen sin asignaturas registradas.
 
 ## 5. Salida
-- Cada asignatura registrada aparece en la lista con su promedio y situación, por ejemplo: `Matemática · 85.50 · Aprobada`.
+- Cada asignatura registrada aparece en la lista con su promedio y situación, por ejemplo: Matemática · 85.50 · Aprobada.
 - El resumen muestra el promedio general (2 decimales), las cantidades de aprobadas, en recuperación y reprobadas, y la situación general.
 
 **Ejemplo:** Matemática 85.50 (Aprobada), Inglés 64.00 (En recuperación) e Informática 55.25 (Reprobada) dan un promedio general de **68.25** y la situación *Tiene asignaturas reprobadas*.
